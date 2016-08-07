@@ -1,4 +1,4 @@
-# VIOnetes
+# k8s-on-VIO
 Automation tooling to deploy Kubernetes infrastructure based on Solinea and Kubespray work.
 
 All credit to the following folks whose work helped me with this PoC:
